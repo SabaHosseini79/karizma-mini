@@ -26,7 +26,7 @@ rag.py             هسته‌ی RAG: embedding، جست‌وجو و تولید 
 ingest.py          تقسیم اسناد و ذخیره‌ی آنها در پایگاه داده
 schema.sql         کد SQL ساخت پایگاه داده در Supabase
 requirements.txt   وابستگی‌ها
-data/knowledge/    فایل‌های مرجع (Markdown)
+01-05.md    فایل‌های مرجع 
 image.png          تصویر نمونه از برنامه
 ```
 
