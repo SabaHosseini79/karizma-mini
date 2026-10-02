@@ -57,8 +57,6 @@ LLM_API_KEY=...
 LLM_BASE_URL=
 LLM_MODEL=gpt-4o-mini
 EMBED_MODEL=text-embedding-3-small
-TOP_K=5
-MIN_SIMILARITY=0.25
 ```
 
 ۴. بارگذاری اسناد در پایگاه داده (بار اول و هر بار که اسناد تغییر کنند):
